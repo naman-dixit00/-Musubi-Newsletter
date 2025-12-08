@@ -1,3 +1,4 @@
+
 ![Musubi Newsletter](https://github.com/naman-dixit00/Musubi-Newsletter-/blob/main/musubi.jpg)
 
 ## 🌟 結び (Musubi) Newsletter -
@@ -7,6 +8,7 @@ This Repository Contains the details about Newsletter - Musubi .
 “Every thread sparks a connection. Every story ties a universe.” ⚡ 
 
 ---
+![Musubi Newsletter](https://github.com/naman-dixit00/-Musubi-Newsletter/blob/main/Screenshot%20(53).jpg)
 
  First Article of Musubi  -  https://medium.com/@namandixit0000/結び-musubi-newsletter-日-0-61ce96cc7b58 
 〜 The Birth of Musubi — Where Ideas Learn to Breathe
@@ -19,3 +21,5 @@ This Repository Contains the details about Newsletter - Musubi .
 * All rights are reserved until formal publication. Unauthorized use , copying , sharing, modification, or redistribution is strictly prohibited.
 * Email: namandixit0000@gmail.com , namandixiit07@gmail.com 
 * All rights reserved. Musubi Newsletter is protected under CopyRight Act and applicable intellectual property laws. Unauthorized use is strictly prohibited. 
+
+
