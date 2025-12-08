@@ -8,6 +8,11 @@ This Repository Contains the details about Newsletter - Musubi .
 
 ---
 
+ First Article of Musubi  -  https://medium.com/@namandixit0000/結び-musubi-newsletter-日-0-61ce96cc7b58 
+〜 The Birth of Musubi — Where Ideas Learn to Breathe
+
+---
+
 * Author & Owner: Naman Dixit 
 * Date of Declaration: November 23, 2025
 * License: Custom Proprietary — All Rights Reserved  .
